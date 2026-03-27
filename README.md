@@ -88,10 +88,10 @@ I don’t just write code — I build **scalable systems**, **secure architectur
 
 ---
 
-#### 🛒 Sallsabeel Platform (FULL STACK SOLO)
+#### 🛒 Sallsabeel Platform (FULL STACK )
 🔗 https://sallsabeel.com/
 
-🔥 **Built بالكامل لوحدي (Frontend + Backend + Deployment)**
+🔥 **Built (Frontend + Backend + Deployment)**
 
 - Complete E-commerce system
 - Backend (Laravel) + Frontend
@@ -101,10 +101,10 @@ I don’t just write code — I build **scalable systems**, **secure architectur
 
 ---
 
-#### 🎓 Study Zone Platform (FULL STACK SOLO)
+#### 🎓 Study Zone Platform (FULL STACK)
 🔗 https://aa-dev.site/study-zone/
 
-🔥 Built بالكامل لوحدي
+🔥 **Built (Frontend + Backend + Deployment)**
 
 - Educational platform
 - UI + Backend + Database
@@ -112,10 +112,8 @@ I don’t just write code — I build **scalable systems**, **secure architectur
 
 ---
 
-#### 🎮 PES Custom Platform (FULL STACK SOLO)
+#### 🎮 PES Custom Platform (FULL STACK )
 🔗 https://aa-dev.site/pes
-
-🔥 Built بالكامل لوحدي
 
 - Custom gaming-related system
 - Dynamic content handling
