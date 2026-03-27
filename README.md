@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+NLP+Specialist;Full-Stack+Developer+(Frontend+%2B+Backend);DevOps+Engineer+%7C+System+Architect;I+Build+Full+Systems+SOLO+🚀" />
 </p>
----
+
 🧠 Who Am I
 🎓 Informatics Engineer (AI) – Damascus University  
 🔥 Solo Builder — I design, develop, and deploy full systems independently
@@ -12,9 +12,9 @@ I specialize in:
 🤖 AI & NLP Systems
 ⚙️ Backend Architecture
 🚀 Full Product Development (End-to-End)
----
+
 🏗️ How I Build Systems
-```mermaid
+
 flowchart LR
 
 A[User] --> B[Frontend]
@@ -27,8 +27,8 @@ D --> H[Admin Panel]
 
 D --> I[Server / VPS]
 I --> J[Nginx + Deployment]
-```
----
+
+
 🏆 SOLO BUILT SYSTEMS
 🛒 Sallsabeel (Full Stack SOLO)
 🔗 https://sallsabeel.com/
@@ -36,24 +36,24 @@ I --> J[Nginx + Deployment]
 E-commerce system
 Authentication + Orders + Dashboard
 Server setup + security
----
+
 🎓 Study Zone (Full Stack SOLO)
 🔗 https://aa-dev.site/study-zone/
 Educational system
 Clean scalable architecture
 Full UI + Backend + Database
----
+
 🎮 PES Platform (Full Stack SOLO)
 🔗 https://aa-dev.site/pes
 Custom dynamic system
 Full deployment
----
+
 🚛 SammanTrans
 🔗 https://www.sammantrans.com/
 Logistics automation system
 Multi-role system
 99.9% uptime
----
+
 🛠️ Tech Stack
 💻 Languages
 `PHP` `Python` `JavaScript`
@@ -67,32 +67,32 @@ Multi-role system
 `Linux` `VPS` `Nginx` `CI/CD`
 🔐 Security
 `RBAC` `Sanctum` `Data Validation`
----
+
 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmranIbrahem&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmranIbrahem&theme=tokyonight" width="48%"/>
 </p>
----
+
 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmranIbrahem&theme=tokyo-night"/>
 </p>
----
+
 🧬 Identity
 🤖 AI Engineer
 ⚙️ Backend Specialist
 🚀 DevOps Engineer
 🧠 System Architect
 🔥 Solo Product Builder
----
+
 📫 Contact
 📧 amranibarhem2001@gmail.com  
 📱 +963 933 314 349
----
+
 ⚡ Philosophy
 > "I don't just write code...  
 > I build systems that scale, perform, and succeed." 🚀
----
+
 <!-- 🔻 FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0E2A47&height=180&section=footer" width="100%"/>
